@@ -14,6 +14,7 @@ def main(base_model):
     print("Inicio")
     print(base_model)
     print("Final")
+    return f"Inicio {base_model} final del archivo"
 
 
 if __name__ == '__main__':
